@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^13.17.1",
+    "express": "^4.17.3",
+    "javascript-obfuscator": "^4.1.0",
+    "pro.db": "^3.0.8",
+    "sourcebin_js": "^0.0.3-ignore"
+  }
+}
